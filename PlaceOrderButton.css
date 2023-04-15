@@ -1,0 +1,12 @@
+.place_order {
+    padding: 10px;
+}
+
+.place_order_btn {
+    background: #fff;
+    color: #198754;
+    border: 2px solid #198754;
+    border-radius: 3px;
+    padding: 5px 10px;
+    text-transform: uppercase;
+}
